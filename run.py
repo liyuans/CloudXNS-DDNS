@@ -23,7 +23,7 @@ interface = "pppoe0"        # if method set iface , then set interface name
 
 api_key ="XXXXXXXXXXXXXXXXXXXX"
 api_secret = "XXXXXXXXX"
-DOMAIN = "www.lzh.be"
+DOMAIN = "www.liyuans.com"
 
 def getIpAddress(method, ifname="lo"):
     if method == "iface":
